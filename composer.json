@@ -1,0 +1,11 @@
+{
+    "name": "leandro/carrito",
+    
+    "autoload":{
+        "psr-4":{
+            "Carrito\\": "src/",
+            "Libreria\\": "lib/"
+        }
+    },
+    "require": {}
+}
